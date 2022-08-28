@@ -34,6 +34,7 @@ body .container {
   gap: 10px;
   -webkit-transform: rotateY(30deg) rotateX(10deg);
           transform: rotateY(30deg) rotateX(10deg);
+  zoom: 2;
 }
 body .container .text {
   position: relative;
