@@ -13,6 +13,7 @@ body {
     transform-style: preserve-3d;
     gap: 10px;
     transform: rotateY(30deg) rotateX(10deg);
+    zoom: 2;
 
     .text {
       position: relative;
